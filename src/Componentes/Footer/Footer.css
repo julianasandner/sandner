@@ -1,0 +1,10 @@
+.footer {
+    background-color: #367E18;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer h2 {
+    font-size: 2rem;
+}
